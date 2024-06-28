@@ -2,6 +2,22 @@
 Changelog for package spinnaker_camera_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.1.17 (2024-05-18)
+-------------------
+* fix broken composable node by installing in correct location
+* Add FLIR-AX5 Camera (`#176 <https://github.com/ros-drivers/flir_camera_driver/issues/176>`_)
+* Contributors: Bernd Pfrommer, anonymousarmadillo100
+
+2.1.16 (2024-04-20)
+-------------------
+* add option to disable external control (default!)
+* updated docs for sync driver, switch to RST
+* widened the ExposureController interface
+* fix build errors on rolling/noble
+* added blacklevel and whitebalance support for blackfly
+* use proper name for camerainfo when using sync driver
+* Contributors: Bernd Pfrommer
+
 2.1.15 (2024-03-28)
 -------------------
 * fixes to compile on focal/galactic
