@@ -1,4 +1,4 @@
-release_repo_url: git@github.com:revyos-ros/flir_camera_driver-release
+release_repo_url: git@github.com:revyos-ros/flir_camera_driver-release.git
 tracks:
   humble:
     actions:
