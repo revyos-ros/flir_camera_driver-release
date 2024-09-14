@@ -2,6 +2,23 @@
 Changelog for package spinnaker_camera_driver
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.20 (2024-06-20)
+-------------------
+* updated docs for jazzy, adjust download script
+* Contributors: Bernd Pfrommer
+
+2.0.19 (2024-06-18)
+-------------------
+* remove unnecessary debs from package
+* Contributors: Bernd Pfrommer
+
+2.0.18 (2024-06-18)
+-------------------
+* point to new spinnaker sdk for noble
+* renamed stereo_synced file and added doc
+* added user set control examples for blackfly/blackfly_s
+* Contributors: Bernd Pfrommer
+
 2.0.17 (2024-05-18)
 -------------------
 * fix broken composable node by installing in correct location
