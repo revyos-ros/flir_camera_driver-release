@@ -1,3 +1,30 @@
+## flir_camera_driver (jazzy) - 3.0.2-1
+
+The packages in the `flir_camera_driver` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy flir_camera_driver --override-release-repository-push-url git@github.com:revyos-ros/flir_camera_driver-release.git` on `Mon, 23 Jun 2025 06:49:46 -0000`
+
+These packages were released:
+- `flir_camera_description`
+- `flir_camera_msgs`
+- `spinnaker_camera_driver`
+- `spinnaker_synchronized_camera_driver`
+
+Version of package(s) in repository `flir_camera_driver`:
+
+- upstream repository: https://github.com/ros-drivers/flir_camera_driver.git
+- release repository: https://github.com/revyos-ros/flir_camera_driver-release.git
+- rosdistro version: `3.0.2-1`
+- old version: `3.0.0-1`
+- new version: `3.0.2-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## flir_camera_driver (jazzy) - 3.0.0-1
 
 The packages in the `flir_camera_driver` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy flir_camera_driver --override-release-repository-push-url git@github.com:revyos-ros/flir_camera_driver-release.git --edit` on `Thu, 19 Dec 2024 08:51:07 -0000`
